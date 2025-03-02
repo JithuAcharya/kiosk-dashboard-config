@@ -1,0 +1,8 @@
+{
+  "dashboards": [
+    "https://www.google.com",
+    "https://intune.microsoft.com/#home",
+    "https://portal.azure.com/#home"
+  ],
+  "rotation_interval": 30000
+}
